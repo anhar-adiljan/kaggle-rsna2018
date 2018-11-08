@@ -38,7 +38,7 @@ NOTE: To clone the repository, make sure to have `git lfs` installed.
 
 ## Team Members
 
-* Adil Ainihaer
+* Adilijiang Ainihaer
 * Ankoor Bhagat
 * Venkatramanan Krishnamani
 * Tong Luo
